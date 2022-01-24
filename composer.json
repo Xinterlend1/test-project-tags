@@ -1,0 +1,15 @@
+{
+  "name": "xinterlend-project/test-project-tags",
+  "type": "project",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Xinter",
+      "email": "zelencov.e@effective-group.ru"
+    }
+  ],
+  "require": {
+  }
+}
